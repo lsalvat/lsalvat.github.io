@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+My research interests are varied and encompass machine learning, reinforcement learning, optimization, statistical inference and forecasting.
 
-{% include base_path %}
+Lluís Salvat Niell, Adrian Fischer, Robert E. Gaunt
+The Generalised Hyperbolic Distribution: A Review
+In preparation
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Shuangning Li, Lluís Salvat Niell, Sung Won Choi, Inbal Nahum-Shani, Guy Shani, Susan A. Murphy
+Dyadic Reinforcement Learning
+In preparation
