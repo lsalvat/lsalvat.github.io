@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lluís Salvat Niell"
   avatar           : "profile.png"
-  bio              : "MMathPhys Student"
+  bio              : "MMathPhys Student, University of Manchester"
   location         : "Manchester, UK"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/"
+  googlescholar    : "https://scholar.google.com/citations?user=fZEVxCIAAAAJ&hl=ca&oi=sra"
   email            : "mailto:lluissalvatniell@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
